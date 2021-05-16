@@ -1,0 +1,19 @@
+﻿  Main.cpp
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(41,11): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(47,10): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(48,10): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(53,42): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(53,39): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(53,26): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(53,13): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(68,39): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(67,63): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(67,20): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(67,13): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(82,34): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(82,16): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(111,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(112,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(204,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лаба №21 Графы\Main.cpp(44): warning C4715: getNext: значение возвращается не при всех путях выполнения
+  Лаба №21 Графы.vcxproj -> C:\Users\Арина\source\repos\Лаба №21 Графы\Debug\Лаба №21 Графы.exe
